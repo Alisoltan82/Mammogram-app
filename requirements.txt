@@ -1,0 +1,9 @@
+pillow
+tensorflow
+numpy
+pandas
+matplotlip
+seaborn
+kreas
+streamlit
+plotly
