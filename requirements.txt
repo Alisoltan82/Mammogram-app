@@ -4,6 +4,6 @@ numpy
 pandas
 matplotlip
 seaborn
-kreas
+keras
 streamlit
 plotly
